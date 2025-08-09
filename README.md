@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" alt="BatteryECS Logo" width="200"/>
+  <img src="logo.png" alt="BatteryECS Logo" width="200"/>
 </p>
 
 <p align="center">
